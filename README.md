@@ -63,7 +63,7 @@ through a secure and intuitive interface.
 2. Import the file gestion_inscription.sql 
    into phpMyAdmin
 3. Place the project folder in htdocs/
-4. Open http://GestionInscription/
+4. Open http://localhost/GestionInscription/
 5. Login with your credentials
 
 ## Project Type
