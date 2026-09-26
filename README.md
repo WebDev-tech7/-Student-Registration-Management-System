@@ -1,4 +1,4 @@
-# Student Management System
+# Student Registration Management system
 
 ## Description
 A complete web-based student registration management system 
