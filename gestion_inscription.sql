@@ -87,9 +87,9 @@ CREATE TABLE `etudiant` (
 --
 
 INSERT INTO `etudiant` (`id`, `matricule`, `nom`, `prenom`, `date_naissance`, `sexe`, `email`, `telephone`, `classe_id`) VALUES
-(1, '054/22/23', 'DIAGANA', 'cheikh BABA', '2005-02-15', 'Masculin', 'moncompte22171@gmail.com', '43008700', 1),
-(2, '055/22/23', 'SID', 'BA', '2005-02-02', 'Masculin', 'compteBA22171@gmail.com', '43008744', 2),
-(3, '056/22/23', 'DIAGANA', 'cheikh', '2005-02-15', 'Masculin', 'monA171@gmail.com', '43008700', 3);
+(1, '028/22/23', 'MOUSSA', 'ALI BABA', '2005-02-15', 'Masculin', 'etudiant1@example.com', '00000000', 1),
+(2, '089/23/24', 'AHMED', 'BA', '2005-02-02', 'Masculin', 'etudiant2@examlpe.com', '00000000', 2),
+(3, '099/24/25', 'JEAN', 'PIERRE', '2005-02-15', 'Masculin', 'etudiant3@example.com', '00000000', 3);
 
 -- --------------------------------------------------------
 
